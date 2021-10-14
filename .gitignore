@@ -1,0 +1,17 @@
+# Python cache files
+
+*.pyc
+*/__pycache__/
+*/*/__pycache__/
+
+# Virtual enviroment
+
+venv/
+*/venv/
+*/*/venv/
+
+# Coverage files
+
+htmlcov/
+*/htmlcov/
+*/*/htmlcov/
